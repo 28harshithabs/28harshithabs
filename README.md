@@ -5,7 +5,7 @@
 
 <!-- 🌈 Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=👨‍💻+Arjun+Kumar;Full+Stack+Developer+%7C+Django+%7C+React+%7C+FastAPI;Passionate+About+AI,+Cloud,+and+Open+Source" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=👨‍💻+Harshitha BS;Data+science+%7C+Python+libraries+%7C+React+%7C+FastAPI;Passionate+About+AI,+Cloud,+and+Open+Source" alt="Typing SVG">
 </h1>
 
 <!-- 🌀 Animated Gradient Wave -->
